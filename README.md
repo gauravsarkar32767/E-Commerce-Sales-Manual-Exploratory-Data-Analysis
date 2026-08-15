@@ -35,7 +35,6 @@ Pivot analysis,
 Crosstab analysis,
 
 **Tools Used**
-Python,
 Pandas,
 NumPy,
 Matplotlib,
