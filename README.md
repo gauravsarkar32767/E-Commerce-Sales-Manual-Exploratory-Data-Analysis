@@ -3,13 +3,13 @@ E-Commerce Sales – Manual Exploratory Data Analysis
 
 **Dataset**
 Mention:
-3,660 records
-E-commerce product data
-Price
-Discount
-Category
-Purchase Date
-Final Price
+3,660 records,
+E-commerce product data,
+Price,
+Discount,
+Category,
+Purchase Date,
+Final Price,
 
 **Analysis Performed**
 For example:
