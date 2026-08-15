@@ -1,4 +1,4 @@
-**Project Title**
+**Mini Project Title**
 E-Commerce Sales – Manual Exploratory Data Analysis
 
 **Dataset**
