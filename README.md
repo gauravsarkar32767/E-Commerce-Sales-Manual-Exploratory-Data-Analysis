@@ -1,7 +1,7 @@
-**Mini Project Title**
+## Mini Project Title 
 E-Commerce Sales – Manual Exploratory Data Analysis
 
-**Dataset**
+## Dataset
 Mention:
 3,660 records,
 E-commerce product data,
@@ -11,22 +11,22 @@ Category,
 Purchase Date,
 Final Price,
 
-**Analysis Performed**
+## Analysis Performed
 For example:
 
-**Univariate Analysis**
+## Univariate Analysis
 Price distribution,
 Discount distribution,
 Category distribution,
 Monthly purchase distribution,
 
-**Bivariate Analysis**
+## Bivariate Analysis
 Price vs Discount,
 Category vs Price,
 Category vs Discount,
 Correlation analysis,
 
-**Multivariate Analysis**
+## Multivariate Analysis
 Pair plot,
 Grouped boxplot,
 Bubble charts,
@@ -34,7 +34,7 @@ Violin plot,
 Pivot analysis,
 Crosstab analysis,
 
-**Tools Used**
+## Tools Used
 Pandas,
 NumPy,
 Matplotlib,
