@@ -14,19 +14,19 @@ Final Price,
 ## Analysis Performed
 For example:
 
-## Univariate Analysis
+### Univariate Analysis
 Price distribution,
 Discount distribution,
 Category distribution,
 Monthly purchase distribution,
 
-## Bivariate Analysis
+### Bivariate Analysis
 Price vs Discount,
 Category vs Price,
 Category vs Discount,
 Correlation analysis,
 
-## Multivariate Analysis
+### Multivariate Analysis
 Pair plot,
 Grouped boxplot,
 Bubble charts,
